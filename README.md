@@ -2,7 +2,7 @@
 - 👀 I’m interested in working on python projects
 - 🌱 I’m currently learning python
 - 🤹‍♀️ I’m looking to collaborate with team working for any python project
-- 📫 How to reach me https://discord.gg/RQaFkFhVF9
+- 📫 How to reach me rhutujamkakade2673@gmail.com
 
 <!---
 Phoenix061102/Phoenix061102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
